@@ -7,7 +7,7 @@ ul#menu li {
 }
 
 ul#menu li a {
-    background-color:#94E2E7;
+    background-color:rgb(85, 207, 216);
     color: white;
     padding: 10px 20px;
     text-decoration: none;
@@ -15,7 +15,7 @@ ul#menu li a {
 }
 
 ul#menu li a:hover {
-    background-color:#1C57DF;
+    background-color:rgb(26, 74, 185);
 }
 nav{
     text-align: center;
